@@ -3,8 +3,9 @@ title: LARA Repository
 feature_text: |
   ## LARA
   Laboratorio de Automação e Robótica
-feature_image: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.0-9/10374027_264498453722737_5094489787622684301_n.png?_nc_cat=111&_nc_oc=AQlHBnUN6aHrgfwbj1VSb3--L21LYuqgJpZ07q3Zn2WW4i7SzGBMXU8Sd828Zg1se-X9tSJRq70J6MCOLVp6-jtu&_nc_ht=scontent.fbsb3-1.fna&oh=dbf4b042176c345a4438f584ea9a664f&oe=5DC53AC2"
-excerpt: "Here you will find information on our projects, databases, APIs and other developments from our team."
+feature_image: https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.0-9/10374027_264498453722737_5094489787622684301_n.png?_nc_cat=111&_nc_oc=AQlHBnUN6aHrgfwbj1VSb3--L21LYuqgJpZ07q3Zn2WW4i7SzGBMXU8Sd828Zg1se-X9tSJRq70J6MCOLVp6-jtu&_nc_ht=scontent.fbsb3-1.fna&oh=dbf4b042176c345a4438f584ea9a664f&oe=5DC53AC2
+excerpt: Here you will find information on our projects, databases, APIs and other
+  developments from our team.
 ---
 
 # Welcome to our Repository!
